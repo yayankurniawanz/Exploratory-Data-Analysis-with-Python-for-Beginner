@@ -1,0 +1,5 @@
+Exploratory Data Analysis with Python for Beginner
+Modul 1 : Pengenalan Library dalam Python
+Modul 2 : Exploratory Data Analysis dengan Pandas - Part 1
+Modul 3 : Exploratory Data Analysis dengan Pandas - Part 2
+Modul 4 : Mini Project
